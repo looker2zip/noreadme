@@ -22,10 +22,10 @@ class ArithmeticOperationsTest {
 		assertEquals(8,ao.multiplication(4, 2));
 	}
 
-	@Test
-	void testDivision() {
-		ArithmeticOperations ao=new ArithmeticOperations();
-		assertEquals(2,ao.division(4, 2));
-	}
+//	@Test
+//	void testDivision() {
+//		ArithmeticOperations ao=new ArithmeticOperations();
+//		assertEquals(2,ao.division(4, 2));
+//	}
 
 }
